@@ -1,2 +1,0 @@
-# coursera-test
-For coursera
